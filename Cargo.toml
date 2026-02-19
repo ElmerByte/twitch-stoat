@@ -7,18 +7,15 @@ edition = "2024"
 stoat-rs = "0.1.0"
 tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
 dotenv = "0.15"
-# ollama-rs = { version = "0.3.4"   }
 rusqlite = { version = "0.38.0", features = ["bundled"] }
 chrono = "0.4.43"
 reqwest = "0.13.2"
 serde = "1.0.228"
 serde_json = "1.0.149"
-# asknothingx2-util = { version = "0.1.11", features = ["oauth"] }
 twitch_highway = { version = "0.3.3", features = [ "eventsub","streams"] }
 tokio-tungstenite = { version = "0.28.0", features = ["native-tls"] }
 futures-util = "0.3.32"
 parking_lot = "0.12.5"
 r2d2 = "0.8.10"
 r2d2_sqlite = "0.32.0"
-# twitch_oauth_token = "4.0.0"
 
