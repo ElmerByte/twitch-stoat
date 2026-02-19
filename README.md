@@ -115,7 +115,7 @@ A Rust bot that sends real-time Stoat notifications when Twitch streamers go liv
   Contributions are welcome. Please open an issue before submitting pull requests.
 - ## License
   
-  MIT License - see  for details.
+  MIT License
 - ## Links
 - [Stoat Documentation](https://developers.stoat.chat/)
 - [Twitch EventSub](https://dev.twitch.tv/docs/eventsub/)
